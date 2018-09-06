@@ -37,7 +37,7 @@
 .screen-1__phone_animate_done{
     opacity: 1;
     transform: none;
-    transition:all 2s;
+   
 }
 
 .screen-3__phone_animate_done,
